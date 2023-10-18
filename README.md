@@ -1,8 +1,20 @@
-# React + Vite
+# 📝 React Hook Form
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+This repository contains code and resources related to the practical application of React Hook Form, a popular library for managing form state in React applications. In this tutorial, you'll learn how to effectively use React Hook Form to streamline your form-handling process.
 
-Currently, two official plugins are available:
+## 🚀 How to Use this Repository
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+1. Clone the repository or download the source code.
+2. Make sure you have Node.js and npm installed on your system.
+3. Install the dependencies with the command `npm install`.
+4. Follow the detailed instructions in the project's README to run and test the application.
+
+## 🛠️ Tools We Will Use 
+
+![React](https://img.shields.io/badge/React-%2320232a.svg?style=flat&logo=react&logoColor=%2361DAFB)![npm](https://img.shields.io/badge/npm-%23CB3837.svg?style=flat&logo=npm&logoColor=white) !
+
+## 🌐 Socials:
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/ivansanguezax) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/ivansanguezax) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/ivansanguezax) 
+
+---
+⌨️ with ❤️ by [ivansanguezax](https://github.com/ivansanguezax) 😊
